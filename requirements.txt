@@ -12,3 +12,6 @@ jax==0.2.18
 jaxlib==0.1.69
 scikit-image
 odl
+piq
+torch
+torchvision

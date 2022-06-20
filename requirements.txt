@@ -11,3 +11,4 @@ flax @ git+https://github.com/google/flax.git@8b2e56e93602ff9fcd62647f28b8145e0e
 jax==0.2.18
 jaxlib==0.1.69
 scikit-image
+odl
